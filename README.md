@@ -3,7 +3,7 @@
 I'm a Software Engineer at Flipkart, previously at Rakuten. Earlier I have worked on various Machine Learning projects for various organisations and research papers under various professors at my university. I am also a Competitive Programmer and have qualified for the ACM-ICPC 2019 Onsite Regional at Amritapuri.
 
 - 📝 I love to write technical blogs on my [Medium page](https://medium.com/@amitrajit_bose) which has thousands of readers every month.
-- 💻 I started [Competitive Programming](https://github.com/amitrajitbose/Competitive_Programming) repository to collect top algorithmic problems.
+- 💻 I started [Competitive Programming](https://github.com/amitrajitbose/Competitive_Programming) repository to host solutions for some top algorithmic problems.
 
 #### Technologies
 
